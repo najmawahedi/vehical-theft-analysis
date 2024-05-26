@@ -2,7 +2,7 @@
 
 #### Project Overview:
 
-This project focuses on analyzing vehicle theft data from 2021 and 2022 to uncover patterns, trends, and predictive factors related to vehicle theft incidents. The analysis includes data cleaning, exploratory data analysis (EDA), feature engineering, and building a logistic regression model for prediction.
+This project focuses on analyzing vehicle theft data from 2021 and 2022 to uncover patterns, trends, and predictive factors related to vehicle theft incidents. The analysis includes data cleaning, exploratory data analysis (EDA), and building a logistic regression model for prediction.
 
 #### Contents:
 
