@@ -17,5 +17,5 @@ Key insights and conclusions drawn from the analysis.
 
 #### Files in the Repository:
 Cleaned Data: cleaned_vehicle_theft_data.csv
-Jupyter Notebook: vehicle_theft_analysis.ipynb
+Jupyter Notebook: Analysis of stolen vehicles.ipynb
 
